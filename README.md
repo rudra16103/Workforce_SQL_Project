@@ -19,6 +19,10 @@ Includes queries, indexes, and stored procedures for efficient analysis.
 
 ---
 
+## 📊 Entity Relationship Diagram (ERD) 
+
+---
+
 ## Files in the Repository
 - **CSV Data:** `employees.csv`, `departments.csv`, `salaries.7z`, `department_employees.csv`, `department_managers.csv`  
 - **SQL Scripts:** `schema.sql`, `indexes.sql`, `queries.sql`, `stored_procedures.sql`, `sql_project.sql`
