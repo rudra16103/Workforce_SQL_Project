@@ -588,5 +588,6 @@ workforce-analytics-sql/
 ├── queries.sql
 ├── stored_procedures.sql
 ├── sql_project.sql
+├── Entity Relationship Diagram.png
 └── README.md
 ```
