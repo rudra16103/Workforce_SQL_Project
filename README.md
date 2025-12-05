@@ -19,7 +19,7 @@ Includes queries, indexes, and stored procedures for efficient analysis.
 
 ---
 
-## 📊 Entity Relationship Diagram (ERD) 
+## Entity Relationship Diagram (ERD) 
 ![ERD Diagram](https://github.com/rudra16103/Workforce_SQL_Project/blob/main/Entity%20Relationship%20Diagram.png)
 
 ---
